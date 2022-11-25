@@ -8,8 +8,8 @@ namespace IntegrationCelcoin.Services
 {
     public class TokenRechargeCelcoinService
     {
-        private string _clientId = "41b44ab9a56440.teste.celcoinapi.v5";
-        private string _clientSecret = "e9d15cde33024c1494de7480e69b7a18c09d7cd25a8446839b3be82a56a044a3";
+        private string _clientId = "";
+        private string _clientSecret = "";
         private string _grantType = "client_credentials";
 
         public Dictionary<bool, string> GetToken()
