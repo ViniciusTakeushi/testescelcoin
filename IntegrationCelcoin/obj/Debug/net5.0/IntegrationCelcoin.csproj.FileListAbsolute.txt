@@ -1,0 +1,12 @@
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\bin\Debug\net5.0\IntegrationCelcoin.deps.json
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\bin\Debug\net5.0\IntegrationCelcoin.dll
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\bin\Debug\net5.0\IntegrationCelcoin.pdb
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\IntegrationCelcoin.csproj.AssemblyReference.cache
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\IntegrationCelcoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\IntegrationCelcoin.AssemblyInfoInputs.cache
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\IntegrationCelcoin.AssemblyInfo.cs
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\IntegrationCelcoin.csproj.CoreCompileInputs.cache
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\IntegrationCelcoin.dll
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\refint\IntegrationCelcoin.dll
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\IntegrationCelcoin.pdb
+C:\Projetos\TesteCelcoin\IntegrationCelcoin\obj\Debug\net5.0\ref\IntegrationCelcoin.dll

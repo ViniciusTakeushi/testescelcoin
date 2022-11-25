@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTAqszZ8k2sC9DG8PCeNOgzVj0kkRTCNRZo4cITzd2u1f3UMCkPzeh1bh5hgMZlfrV+5XNDyU5NLRwKJmThspw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\TesteCelcoin\\TesteCelcoin\\TesteCelcoin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius Takeushi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Vinicius Takeushi\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
+    "C:\\Users\\Vinicius Takeushi\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
